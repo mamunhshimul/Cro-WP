@@ -1,2 +1,2 @@
-# cro
-SImple Business WordPress Theme for free
+# cro WP
+Simple Business WordPress Theme for free.
